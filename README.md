@@ -1,6 +1,6 @@
 # GPT-4 CLI
 
-Simple command line interface for chatting with the newest GPT-4 language model using the official OpenAI API
+Simple command line interface for chatting with **the newest GPT-4 language model** using the official OpenAI API.
 
 To get started, clone the repository and install the dependencies using pip or poetry.
     
