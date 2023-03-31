@@ -14,7 +14,7 @@ load_dotenv(envfile)
 
 from client import ChatGPTClient  # noqa: E402
 
-_GPT_CLIENT_SYSTEM_MESSAGE = "You are a helpful assistant"
+_GPT_CLIENT_SYSTEM_MESSAGE = "You are a helpful technical assistant"
 
 
 async def main():
